@@ -22,7 +22,7 @@ namespace Giraffe
             bool isMale = true;
 
             float, decimal = 
-            console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
