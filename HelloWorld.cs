@@ -1,13 +1,13 @@
 using System;
 namespace Giraffe
 {
-    class Program
+    class HelloWorld
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
 
-            console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
